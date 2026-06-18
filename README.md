@@ -1,6 +1,11 @@
-# Test
+---
+description: >-
+  ... to the official documentation for Morbidly Mods. I'm the creator for this
+  website, my mods, my scripts or whatever it may be in general, though I did
+  resource from other projects to either do so o
+---
 
-... to the official documentation for Morbidly Mods. I'm the creator for this website, my mods, my scripts or whatever it may be in general, though I did resource from other projects to either do so or use AI to assist me, I re-produced these for you (and mostly me.)
+# Welcome...
 
 You can use the main menu on the left hand side to navigate through the sections of the wiki, or the search bar on the top to search for a specific topic.
 
